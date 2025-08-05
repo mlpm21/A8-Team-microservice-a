@@ -51,3 +51,4 @@ The microservice loads data from menu.csv
 
 ------------------------------------------------------------------------------------------------------
 
+<img width="512" height="304" alt="uml" src="https://github.com/user-attachments/assets/76e6ac10-e11a-4bd8-bfa9-0251c5cbc530" />
